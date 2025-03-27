@@ -25,6 +25,8 @@ Document the current state of the hospital’s IT landscape. This “as-is” as
 **Diagrams & Visuals:**  
 - **Current State Diagram:** (A high-level diagram showing the on-premises data center, connected clinical systems, and isolated network segments)
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/36e9ca88-4015-4426-b624-656329a6e892" />
+
 
 ---
 
